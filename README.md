@@ -1,4 +1,4 @@
-# Daraz-clone
+# Daraz1-clone
 ##HTML, CSS, JS ( DOM )
 
 full Responsive
